@@ -307,7 +307,7 @@ class EMBLFeature(object):
 
 class EMBLHeader(object):
   def __init__(self,
-               authors="Pathogen Genomics",
+               authors="Pathogen Informatics",
                classification="UNC",
                genome_type="circular",
                organism=None,
